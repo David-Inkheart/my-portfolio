@@ -41,17 +41,8 @@
 .container.contact-page,
 .container.about-page,
 .container.portfolio-page {
-  .text-zone {
-    position: absolute;
-    left: 10%;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 35%;
-    vertical-align: middle;
-    display: table-cell;
-    max-height: 90%;
 
-    h1 {
+  h1 {
       font-size: 53px;
       font-family: 'Coolvetica';
       color: #26CFFC;
@@ -86,7 +77,6 @@
         opacity: 0.6;
       }
     }
-  }
 
     p {
       font-size: 13px;
@@ -106,12 +96,25 @@
       }
     }
 
+  .text-zone {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 35%;
+    vertical-align: middle;
+    display: table-cell;
+    max-height: 90%;
+  }
+
   .text-animate-hover {
     &:hover {
       color: #fff;
     }
   }
 }
+
+  
 
 @media screen and (max-width: 1200px) {
   .page {

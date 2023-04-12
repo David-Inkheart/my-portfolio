@@ -1,0 +1,28 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/one/osbh.jpg",
+      "title": "OSBH",
+      "description": "Open Source BookHub is a portfolio project. It is a fullstack application that includes features like a library for resource upload and download, a blog and forum that users can interact with fully. It was built using Python, Django, Jinja2, HTML, CSS, JavaScript, Jquery, Bootstrap5, SQLite, postgreSQL, Ubuntu, OAuth, git, GitHub, Nginx, Gunicorn, Digital Ocean",
+      "url": "https://osbh-app-wnc95.ondigitalocean.app/"
+    },
+    {
+      "cover": "/portfolio/one/hbnb.jpg",
+      "title": "HBNB",
+      "description": "A very simple clone of the popular AirBnB website to showcase skills in building a fullstack application and handling all stacks in person. The application is built using Python, Flask, SQLAlchemy, MySQL, Jinja2, HTML, CSS, JavaScript, jQuery, JSON, RESTful API, Git, GitHub, Amazon Web Services, Nginx, HAproxy load balancer, Gunicorn, Ubuntu",
+      "url": "http://web-01.david-inkheart.tech/"
+    }, 
+    {
+      "cover": "/portfolio/one/task.jpg",
+      "title": "Task Tracker",
+      "description": "A simple Task Tracker that was repeatedly built to play with and learn frontend frameworks. It was first built with React, then redone with Vue and AngularJs. A mock server was hosted on vercel and used to simulate a backend. The application is built using React, Vue, AngularJs, JavaScript, HTML, CSS, JSON, RESTful API, Git, GitHub, Vercel",
+      "url": "https://vue-crash-course-dvd1tf97l-david-inkheart.vercel.app/"
+    }, 
+    {
+      "cover": "/portfolio/one/unixhell.jpg",
+      "title": "Simple Shell",
+      "description": "I was tasked to make a copy of a simple shell. During this process, in addition to scripting, basic data structure, and algorithmic knowledge already gained, I learned more about how the shell works, and what happens when a command is typed into the command line. This was built with a knowledge of C, Processes and Signals, IO, Data structures, Algorithms, Shell Script, System call, and Linux",
+      "url": "https://github.com/David-Inkheart/simple_shell"
+    }
+  ]
+}
