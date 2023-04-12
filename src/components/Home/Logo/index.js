@@ -15,13 +15,14 @@ const Logo = () => {
         duration: 1,
         opacity: 1,
       })
+
     gsap.fromTo(
       solidLogoRef.current,
       {
         opacity: 0,
       },
       {
-        opacity: 0.7,
+        opacity: 0.6,
         delay: 5,
         duration: 5,
       }
@@ -34,7 +35,7 @@ const Logo = () => {
         className="solid-logo"
         ref={solidLogoRef}
         src={LogoD}
-        alt="D"
+        alt="Developer D"
       />
     </div>
   )

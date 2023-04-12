@@ -80,5 +80,35 @@
       color: #fff;
     }
   }
+}
 
+
+@media screen and (max-width: 1200px) {
+  .tags,
+  .home-page h1:before,
+  .home-page h1:after {
+    display: none;
+  }
+
+  .home-page .text-zone {
+    position: initial;
+    text-align: center;
+    width: 80%;
+    transform: none;
+    padding: 10px;
+    max-height: 90%;
+    left: 100px;
+  }
+
+  .home-page h1, 
+  .home-page h2 {
+    margin: 5px -25px 5px 25px;
+  }
+
+  .home-page .flat-button {
+    float: none;
+    display: block;
+    margin: 20px auto 0 100px;
+    width: 124px;
+  }
 }
