@@ -10,7 +10,7 @@
       "cover": "/portfolio/one/hbnb.jpg",
       "title": "HBNB",
       "description": "A very simple clone of the popular AirBnB website to showcase skills in building a fullstack application and handling all stacks in person. The application is built using Python, Flask, SQLAlchemy, MySQL, Jinja2, HTML, CSS, JavaScript, jQuery, JSON, RESTful API, Git, GitHub, Amazon Web Services, Nginx, HAproxy load balancer, Gunicorn, Ubuntu",
-      "url": "http://web-01.david-inkheart.tech/"
+      "url": "https://github.com/David-Inkheart/HBNB_V4"
     }, 
     {
       "cover": "/portfolio/one/task.jpg",
