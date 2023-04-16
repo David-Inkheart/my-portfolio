@@ -77,7 +77,7 @@ const Sidebar = () => {
           </a>
         </li>
         <li>
-          <a target="_blank" rel='noreferrer' href='https://medium.com/@David-Inkheart'>
+          <a target="_blank" rel='noreferrer' href='https://medium.com/@David-Okolie'>
             <FontAwesomeIcon icon={faMedium} color='#594F40'/>
           </a>
         </li>

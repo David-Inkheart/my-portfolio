@@ -79,8 +79,8 @@ const Contact = () => {
           <br />
           Nigeria,
           <br />
-          20 Odunlade Street, <br />
-          Somolu, Lagos <br />
+          Mainland, <br />
+          Lagos <br />
           <span>okoliedave1@gmail.com</span>
         </div>
         <div className='map-wrap'>
