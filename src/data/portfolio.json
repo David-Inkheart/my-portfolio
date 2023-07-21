@@ -1,15 +1,33 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/one/ajuju.png",
+      "title": "Ajuju",
+      "description": "A RESTful API service that powers a Q&A web application. Encourages user interactions with features like user follows, question and answer votes. Added unit tests for regression testing and to ensure software quality. It was built using Tpyescript, NodeJS, ExpressJS, JWT, Prisma, PostgreSQL, Redis, RabbitMQ, Jest, Git, GitHub, Github Actions, Postman, Heroku",
+      "url": "https://github.com/David-Inkheart/Ajuju"
+    },
+    {
+      "cover": "/portfolio/one/files.png",
+      "title": "File Manager",
+      "description": "File manager backend service. A simple platform that helps with file management. Added integration tests to ensure software quality. It was built using NodeJS, ExpressJS, MongoDB, Redis, Bull, Mocha, Git, GitHub",
+      "url": "https://github.com/David-Inkheart/alx-files_manager"
+    },
+    {
+      "cover": "/portfolio/one/piechat.png",
+      "title": "PieChat",
+      "description": "A snack centered social media application. A unique social media platform designed to bring people together over their love for snacks and engaging conversations. It was built using NodeJS, ExpressJS, MongoDB, Mongoose, GraphQL, JWT, React, Git, GitHub",
+      "url": "https://github.com/David-Inkheart/PieChat"
+    },
+    {
       "cover": "/portfolio/one/osbh.jpg",
-      "title": "OSBH",
-      "description": "Open Source BookHub is a portfolio project. It is a fullstack application that includes features like a library for resource upload and download, a blog and forum that users can interact with fully. It was built using Python, Django, Jinja2, HTML, CSS, JavaScript, Jquery, Bootstrap5, SQLite, postgreSQL, Ubuntu, OAuth, git, GitHub, Nginx, Gunicorn, Digital Ocean",
+      "title": "Open Source BookHub",
+      "description": "OSBH is a portfolio project. It is a fullstack application that includes features like a library for resource upload and download, a blog and forum that users can interact with fully. It was built using Python, Django, Jinja2, HTML, CSS, JavaScript, Jquery, Bootstrap5, SQLite, postgreSQL, Ubuntu, OAuth, Git, GitHub, Nginx, Gunicorn, Digital Ocean",
       "url": "https://osbh-app-wnc95.ondigitalocean.app/"
     },
     {
       "cover": "/portfolio/one/hbnb.jpg",
-      "title": "HBNB",
-      "description": "A very simple clone of the popular AirBnB website to showcase skills in building a fullstack application and handling all stacks in person. The application is built using Python, Flask, SQLAlchemy, MySQL, Jinja2, HTML, CSS, JavaScript, jQuery, JSON, RESTful API, Git, GitHub, Amazon Web Services, Nginx, HAproxy load balancer, Gunicorn, Ubuntu",
+      "title": "Holbertin Bed and Breakfast",
+      "description": "HBNB is a very simple clone of the popular AirBnB website to showcase skills in building a fullstack application and handling all stacks in person. The application is built using Python, Flask, SQLAlchemy, MySQL, Jinja2, HTML, CSS, JavaScript, jQuery, JSON, RESTful API, Git, GitHub, Nginx, HAproxy load balancer, Gunicorn, Ubuntu",
       "url": "https://github.com/David-Inkheart/HBNB_V4"
     }, 
     {
