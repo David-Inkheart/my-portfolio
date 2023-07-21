@@ -26,7 +26,7 @@
     },
     {
       "cover": "/portfolio/one/hbnb.jpg",
-      "title": "Holbertin Bed and Breakfast",
+      "title": "Holberton Bed N Breakfast",
       "description": "HBNB is a very simple clone of the popular AirBnB website to showcase skills in building a fullstack application and handling all stacks in person. The application is built using Python, Flask, SQLAlchemy, MySQL, Jinja2, HTML, CSS, JavaScript, jQuery, JSON, RESTful API, Git, GitHub, Nginx, HAproxy load balancer, Gunicorn, Ubuntu",
       "url": "https://github.com/David-Inkheart/HBNB_V4"
     }, 
