@@ -1,9 +1,15 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/one/Paywave-logo.png",
+      "title": "Paywave",
+      "description": "Paywave is a simple secure platform that simplifies invoicing for small businesses. It was built by a cross-functional team consisting of a Project Manager, UI/UX designer, a frontend developer and me, as a backend developer . Added unit tests for regression testing and to ensure software quality. Technologies used include Node.js (Typescript), PostgreSQL, Redis, Jest, Digital Ocean, Git",
+      "url": "https://github.com/David-Inkheart/paywave"
+    },
+    {
       "cover": "/portfolio/one/ajuju.png",
       "title": "Ajuju",
-      "description": "A RESTful API service that powers a Q&A web application. Encourages user interactions with features like user follows, question and answer votes. Added unit tests for regression testing and to ensure software quality. It was built using Tpyescript, NodeJS, ExpressJS, JWT, Prisma, PostgreSQL, Redis, RabbitMQ, Jest, Git, GitHub, Github Actions, Postman, Heroku",
+      "description": "A RESTful API service that powers a Quora-like application. Encourages user interactions with features like user follows, question and answer votes. Added unit tests for regression testing and to ensure software quality. It was built using Tpyescript, NodeJS, ExpressJS, JWT, Prisma, PostgreSQL, Redis, RabbitMQ, Jest, Git, GitHub, Github Actions, Postman, Heroku",
       "url": "https://github.com/David-Inkheart/Ajuju"
     },
     {
@@ -29,13 +35,13 @@
       "title": "Holberton Bed N Breakfast",
       "description": "HBNB is a very simple clone of the popular AirBnB website to showcase skills in building a fullstack application and handling all stacks in person. The application is built using Python, Flask, SQLAlchemy, MySQL, Jinja2, HTML, CSS, JavaScript, jQuery, JSON, RESTful API, Git, GitHub, Nginx, HAproxy load balancer, Gunicorn, Ubuntu",
       "url": "https://github.com/David-Inkheart/HBNB_V4"
-    }, 
+    },
     {
       "cover": "/portfolio/one/task.jpg",
       "title": "Task Tracker",
       "description": "A simple Task Tracker that was repeatedly built to play with and learn frontend frameworks. It was first built with React, then redone with Vue and AngularJs. A mock server was hosted on vercel and used to simulate a backend. The application is built using React, Vue, AngularJs, JavaScript, HTML, CSS, JSON, RESTful API, Git, GitHub, Vercel",
       "url": "https://vue-crash-course-dvd1tf97l-david-inkheart.vercel.app/"
-    }, 
+    },
     {
       "cover": "/portfolio/one/unixhell.jpg",
       "title": "Simple Shell",
