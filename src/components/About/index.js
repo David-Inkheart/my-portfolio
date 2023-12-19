@@ -28,7 +28,7 @@ const About = () => {
                 />
               </h1>
               <p>
-                I am a driven full-stack software developer with a strong focus on the backend, who is actively seeking a junior position. I am interested in becoming part of an amazing team, where I will have the opportunity to work with the latest technologies on challenging and diverse projects.
+                I am a driven software developer with a strong focus on the backend, who is actively seeking a junior position. I am interested in becoming part of an amazing team, where I will have the opportunity to work with the latest technologies on challenging and diverse projects.
               </p>
               <p>
                 I am a naturally confident, adaptable, and curious problem-solver, with a background in Architecture and Construction, who loves learning and taking on new challenges.

@@ -50,7 +50,7 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in projects across in-demand tech disciplines involving backend development, frontend development and devops, that enable a global career as a Full-Stack Developer. However, if you have a request or question, don't hesitate to get in touch using the form below.
+            I am a Backend Software Engineer actively exploring Junior Developer opportunities. I have excellent problem-solving skills, and I am a great team player. My drive for technology motivated me to transition from a background in Architectural design and Construction Management to Backend Development. However, if you have a request or question, don't hesitate to get in touch using the form below.
           </p>
           <div className='contact-form'>
             <form ref={refForm} onSubmit={sendEmail}>

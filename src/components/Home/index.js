@@ -13,7 +13,7 @@ const Home = () => {
   //This is a longer method to create an array of characters from a string
   //const jobArray = ['A',' ', 's', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'e', 'n', 'g', 'i', 'n', 'e', 'e', 'r', ' ', 'a', 'n', 'd', ' ', 'w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r'];
 
-  const jobArray = 'A fullstack software engineer.'.split('');
+  const jobArray = 'A backend software engineer.'.split('');
 
   useEffect(() => {
     setTimeout(() => {
